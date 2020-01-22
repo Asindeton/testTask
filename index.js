@@ -98,7 +98,7 @@ function getCityArr(string){
     return arr;
 }
 
-function addCity([cities, states, longitude , latitude]) {
+function addCity([cities, states, longitude , latitude]){
     this.cities = cities;
     this.states = states;
     this.longitude = longitude;
